@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bestNotes/static/css/main.638fdf3e.css",
+    "main.js": "/bestNotes/static/js/main.1cda94ab.js",
+    "static/media/notebook.jpg": "/bestNotes/static/media/notebook.cc32bca3b0f40ad97b9c.jpg",
+    "index.html": "/bestNotes/index.html",
+    "main.638fdf3e.css.map": "/bestNotes/static/css/main.638fdf3e.css.map",
+    "main.1cda94ab.js.map": "/bestNotes/static/js/main.1cda94ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.638fdf3e.css",
+    "static/js/main.1cda94ab.js"
+  ]
+}
